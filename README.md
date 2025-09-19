@@ -1,2 +1,2 @@
 # tugas-struktur-data
-membuat struk 
+membuat code dengan meniru tampilan struk blanja
